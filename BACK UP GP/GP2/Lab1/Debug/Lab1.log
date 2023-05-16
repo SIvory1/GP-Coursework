@@ -1,0 +1,24 @@
+﻿  CubemapManager.cpp
+  DisplayGame.cpp
+D:\BACK UP GP\GP2\Lab1\DisplayGame.cpp(22,36): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\BACK UP GP\GP2\Lab1\DisplayGame.cpp(23,36): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  GameManager.cpp
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(180,16): warning C4305: '+=': truncation from 'double' to 'float'
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(185,17): warning C4305: '-=': truncation from 'double' to 'float'
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(196,20): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(197,20): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(201,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(205,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(210,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\BACK UP GP\GP2\Lab1\GameManager.cpp(214,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  MeshManager.cpp
+  obj_loader.cpp
+D:\BACK UP GP\GP2\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  AudioManager.cpp
+D:\BACK UP GP\GP2\Lab1\AudioManager.cpp(53,11): warning C4018: '>': signed/unsigned mismatch
+  ShaderManager.cpp
+  TextureManager.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> D:\BACK UP GP\GP2\Debug\Lab1.exe
